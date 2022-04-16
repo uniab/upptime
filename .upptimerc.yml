@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: UNIAB Community
     url: https://uniab.com
+    icon: https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc
   - name: Team Notes
     url: https://team.uniab.com
+    icon: https://team.uniab.com/favicon-32.png
   - name: test site
     url: https://test.uniab.com
 
