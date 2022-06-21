@@ -22,9 +22,9 @@
     "url": "https://team.uniab.com",
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 576,
     "timeMonth": 580,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "test site",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/test.uniab.com",
     "slug": "test-site",
     "status": "up",
-    "uptime": "90.96%",
+    "uptime": "90.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "90.96%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "90.99%",
     "time": 668,
     "timeDay": 630,
     "timeWeek": 623,
