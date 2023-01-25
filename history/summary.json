@@ -4,19 +4,19 @@
     "url": "https://uniab.com",
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 899,
-    "timeWeek": 819,
-    "timeMonth": 846,
-    "timeYear": 881,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 882,
+    "timeDay": 923,
+    "timeWeek": 835,
+    "timeMonth": 850,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-01-25": 20
+      "2023-01-25": 37
     }
   },
   {
