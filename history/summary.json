@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 886,
-    "timeDay": 834,
-    "timeWeek": 847,
+    "timeDay": 945,
+    "timeWeek": 860,
     "timeMonth": 931,
-    "timeYear": 885,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2023-01-25": 37
     }
@@ -25,18 +25,19 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "88.55%",
+    "uptime": "88.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "87.18%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "86.90%",
     "time": 581,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-05-30": 39,
+      "2023-05-31": 41,
+      "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -101,10 +102,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 556,
-    "timeWeek": 700,
-    "timeMonth": 746,
-    "timeYear": 692,
+    "timeDay": 805,
+    "timeWeek": 715,
+    "timeMonth": 747,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2023-01-25": 19
     }
