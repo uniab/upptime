@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "64.19%",
+    "uptime": "64.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.50%",
-    "time": 726,
+    "uptimeYear": "23.34%",
+    "time": 725,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 628,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-06-04": 672,
+      "2024-06-05": 37,
+      "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -296,8 +297,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 143
+      "2023-06-07": 1440
     }
   },
   {
@@ -306,7 +306,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "46.40%",
+    "uptime": "46.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -317,7 +317,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-04": 672,
+      "2024-06-05": 37,
+      "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -680,8 +681,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -693,12 +693,12 @@
     "uptime": "96.87%",
     "uptimeDay": "97.81%",
     "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.51%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "94.93%",
     "time": 775,
-    "timeDay": 724,
-    "timeWeek": 779,
-    "timeMonth": 767,
+    "timeDay": 780,
+    "timeWeek": 795,
+    "timeMonth": 769,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2024-06-04": 31,
