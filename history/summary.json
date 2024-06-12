@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "63.59%",
+    "uptime": "63.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-06-11": 1146,
+      "2024-06-12": 37,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -296,8 +297,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -306,7 +306,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "45.97%",
+    "uptime": "45.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -317,7 +317,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 1146,
+      "2024-06-12": 38,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -680,8 +681,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -691,17 +691,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "96.89%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "94.92%",
-    "time": 763,
-    "timeDay": 764,
-    "timeWeek": 800,
-    "timeMonth": 773,
+    "time": 764,
+    "timeDay": 744,
+    "timeWeek": 799,
+    "timeMonth": 779,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-06-11": 38,
+      "2024-06-11": 25,
       "2024-06-06": 20,
       "2024-06-04": 31,
       "2024-06-02": 16,
