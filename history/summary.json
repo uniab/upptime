@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "58.84%",
+    "uptime": "58.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.63%",
+    "uptimeYear": "11.46%",
     "time": 692,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 581,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-08-14": 573,
+      "2024-08-15": 38,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -348,7 +349,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "42.53%",
+    "uptime": "42.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -359,7 +360,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 573,
+      "2024-08-15": 38,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -722,8 +724,7 @@
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
-      "2023-08-17": 1440,
-      "2023-08-16": 1440
+      "2023-08-17": 1440
     }
   },
   {
@@ -733,17 +734,16 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.54%",
     "time": 812,
-    "timeDay": 820,
-    "timeWeek": 853,
-    "timeMonth": 1027,
+    "timeDay": 915,
+    "timeWeek": 877,
+    "timeMonth": 1031,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2024-08-14": 10,
       "2024-08-12": 43,
       "2024-08-10": 17,
       "2024-08-05": 32,
@@ -793,7 +793,8 @@
       "2024-04-30": 25,
       "2024-04-28": 69,
       "2024-04-27": 171,
-      "2024-04-26": 155
+      "2024-04-26": 155,
+      "2024-04-25": 17
     }
   }
 ]
