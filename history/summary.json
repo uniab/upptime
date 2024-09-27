@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "56.02%",
+    "uptime": "55.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 646,
-    "timeDay": 713,
-    "timeWeek": 673,
-    "timeMonth": 650,
-    "timeYear": 504,
+    "time": 644,
+    "timeDay": 568,
+    "timeWeek": 662,
+    "timeMonth": 641,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-09-26": 355,
+      "2024-09-27": 44,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -379,8 +380,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "40.50%",
+    "uptime": "40.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-26": 355,
+      "2024-09-27": 44,
+      "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -763,8 +764,7 @@
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
-      "2023-09-29": 1440,
-      "2023-09-28": 1440
+      "2023-09-29": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.53%",
     "time": 808,
-    "timeDay": 933,
-    "timeWeek": 789,
-    "timeMonth": 803,
+    "timeDay": 837,
+    "timeWeek": 793,
+    "timeMonth": 801,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-09-26": 9,
       "2024-09-22": 17,
       "2024-09-17": 19,
       "2024-09-16": 28,
@@ -845,7 +844,7 @@
       "2024-05-01": 151,
       "2024-04-30": 25,
       "2024-04-28": 69,
-      "2024-04-27": 31
+      "2024-04-27": 55
     }
   }
 ]
