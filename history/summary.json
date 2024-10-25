@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "54.32%",
+    "uptime": "54.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 633,
-    "timeDay": 738,
-    "timeWeek": 703,
-    "timeMonth": 686,
-    "timeYear": 539,
+    "time": 634,
+    "timeDay": 715,
+    "timeWeek": 693,
+    "timeMonth": 689,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-10-24": 257,
+      "2024-10-25": 45,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -379,8 +380,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "39.27%",
+    "uptime": "39.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-24": 257,
+      "2024-10-25": 45,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -763,8 +764,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   },
   {
@@ -774,13 +774,13 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "97.75%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.02%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.51%",
-    "time": 816,
-    "timeDay": 849,
-    "timeWeek": 827,
+    "time": 815,
+    "timeDay": 852,
+    "timeWeek": 833,
     "timeMonth": 815,
     "timeYear": 833,
     "dailyMinutesDown": {
