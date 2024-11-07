@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "53.57%",
+    "uptime": "53.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 635,
+    "time": 636,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 680,
+    "timeMonth": 684,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-11-06": 44,
+      "2024-11-07": 44,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -379,8 +380,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "38.73%",
+    "uptime": "38.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 44,
+      "2024-11-07": 44,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -763,8 +764,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   },
   {
@@ -774,14 +774,14 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.50%",
     "time": 809,
-    "timeDay": 750,
-    "timeWeek": 786,
-    "timeMonth": 790,
+    "timeDay": 755,
+    "timeWeek": 769,
+    "timeMonth": 793,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2024-11-05": 28,
