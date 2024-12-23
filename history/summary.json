@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "51.03%",
+    "uptime": "51.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 607,
+    "time": 605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 555,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-12-22": 811,
+      "2024-12-23": 47,
+      "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -379,8 +380,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "36.89%",
+    "uptime": "36.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-22": 811,
+      "2024-12-23": 47,
+      "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -763,8 +764,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.49%",
     "time": 819,
-    "timeDay": 871,
-    "timeWeek": 868,
-    "timeMonth": 824,
-    "timeYear": 837,
+    "timeDay": 935,
+    "timeWeek": 871,
+    "timeMonth": 825,
+    "timeYear": 838,
     "dailyMinutesDown": {
-      "2024-12-22": 12,
       "2024-12-21": 29,
       "2024-12-20": 26,
       "2024-12-16": 20,
@@ -858,7 +857,7 @@
       "2024-05-31": 5,
       "2024-05-27": 17,
       "2024-05-21": 22,
-      "2024-05-12": 152
+      "2024-05-12": 221
     }
   }
 ]
