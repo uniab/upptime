@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "49.16%",
+    "uptime": "49.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 560,
+    "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 612,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2025-01-28": 1370,
+      "2025-01-29": 44,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -379,8 +380,7 @@
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 1370,
+      "2025-01-29": 44,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -763,8 +764,7 @@
       "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "99.49%",
-    "time": 821,
-    "timeDay": 814,
-    "timeWeek": 840,
-    "timeMonth": 806,
+    "time": 820,
+    "timeDay": 800,
+    "timeWeek": 811,
+    "timeMonth": 805,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-01-28": 24,
+      "2025-01-28": 15,
       "2025-01-22": 50,
       "2025-01-20": 18,
       "2025-01-19": 20,
@@ -858,7 +858,7 @@
       "2024-07-03": 42,
       "2024-06-30": 36,
       "2024-06-28": 19,
-      "2024-06-24": 27
+      "2024-06-24": 50
     }
   }
 ]
