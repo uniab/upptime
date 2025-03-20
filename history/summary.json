@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "46.89%",
+    "uptime": "46.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-03-19": 349,
+      "2025-03-20": 48,
+      "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -379,8 +380,7 @@
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
-      "2024-03-21": 1440,
-      "2024-03-20": 1440
+      "2024-03-21": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "33.90%",
+    "uptime": "33.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-19": 349,
+      "2025-03-20": 48,
+      "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -763,8 +764,7 @@
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
-      "2024-03-21": 1440,
-      "2024-03-20": 1440
+      "2024-03-21": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.47%",
-    "time": 819,
-    "timeDay": 730,
-    "timeWeek": 748,
-    "timeMonth": 801,
-    "timeYear": 850,
+    "time": 820,
+    "timeDay": 713,
+    "timeWeek": 757,
+    "timeMonth": 805,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-03-19": 32,
+      "2025-03-19": 23,
       "2025-03-18": 28,
       "2025-03-15": 24,
       "2025-03-03": 16,
@@ -863,7 +863,8 @@
       "2024-07-17": 35,
       "2024-07-16": 19,
       "2024-07-13": 19,
-      "2024-07-12": 74
+      "2024-07-12": 74,
+      "2024-07-11": 21
     }
   }
 ]
