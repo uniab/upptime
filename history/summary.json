@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "46.69%",
+    "uptime": "46.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 545,
+    "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 643,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-03-23": 1175,
+      "2025-03-24": 51,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -379,8 +380,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-23": 1175,
+      "2025-03-24": 51,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -763,8 +764,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "92.56%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.46%",
     "time": 820,
-    "timeDay": 888,
-    "timeWeek": 765,
-    "timeMonth": 793,
-    "timeYear": 850,
+    "timeDay": 940,
+    "timeWeek": 767,
+    "timeMonth": 799,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-03-23": 94,
+      "2025-03-23": 83,
       "2025-03-22": 42,
       "2025-03-21": 18,
       "2025-03-19": 23,
@@ -863,7 +863,8 @@
       "2024-07-21": 20,
       "2024-07-20": 18,
       "2024-07-19": 31,
-      "2024-07-17": 35
+      "2024-07-17": 35,
+      "2024-07-16": 19
     }
   }
 ]
