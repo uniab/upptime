@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "46.30%",
+    "uptime": "46.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 546,
+    "time": 547,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-04-01": 1239,
+      "2025-04-02": 51,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -379,8 +380,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 1239,
+      "2025-04-02": 51,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -763,8 +764,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -773,18 +773,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "98.59%",
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.45%",
     "time": 827,
-    "timeDay": 874,
-    "timeWeek": 817,
-    "timeMonth": 803,
+    "timeDay": 885,
+    "timeWeek": 811,
+    "timeMonth": 801,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-04-01": 15,
       "2025-03-31": 131,
       "2025-03-29": 16,
       "2025-03-28": 29,
@@ -862,7 +861,7 @@
       "2024-08-10": 17,
       "2024-08-05": 32,
       "2024-07-30": 73,
-      "2024-07-29": 3
+      "2024-07-29": 32
     }
   }
 ]
