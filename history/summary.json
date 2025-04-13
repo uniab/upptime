@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "45.83%",
+    "uptime": "45.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-04-12": 1231,
+      "2025-04-13": 141,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -379,8 +380,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "33.14%",
+    "uptime": "33.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-12": 1231,
+      "2025-04-13": 141,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -763,8 +764,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "98.04%",
     "uptimeYear": "99.47%",
     "time": 820,
-    "timeDay": 833,
-    "timeWeek": 764,
+    "timeDay": 721,
+    "timeWeek": 768,
     "timeMonth": 795,
-    "timeYear": 821,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-04-12": 15,
       "2025-04-10": 57,
