@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "44.99%",
+    "uptime": "44.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-05-03": 468,
+      "2025-05-04": 58,
+      "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -379,8 +380,7 @@
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
-      "2024-05-05": 1440,
-      "2024-05-04": 1440
+      "2024-05-05": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "32.53%",
+    "uptime": "32.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 468,
+      "2025-05-04": 58,
+      "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -763,8 +764,7 @@
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
-      "2024-05-05": 1440,
-      "2024-05-04": 1440
+      "2024-05-05": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "58.63%",
-    "uptimeMonth": "60.40%",
-    "uptimeYear": "96.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "68.94%",
+    "uptimeMonth": "60.65%",
+    "uptimeYear": "96.28%",
     "time": 838,
-    "timeDay": 626,
-    "timeWeek": 654,
-    "timeMonth": 739,
+    "timeDay": 703,
+    "timeWeek": 655,
+    "timeMonth": 729,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-05-03": 9,
       "2025-05-02": 40,
       "2025-04-30": 100,
       "2025-04-29": 168,
@@ -865,7 +864,7 @@
       "2024-10-17": 27,
       "2024-10-15": 24,
       "2024-10-14": 45,
-      "2024-10-13": 95
+      "2024-10-13": 124
     }
   }
 ]
