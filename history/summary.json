@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "44.25%",
+    "uptime": "44.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 575,
+    "time": 577,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-05-21": 1181,
+      "2025-05-22": 54,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -379,8 +380,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-21": 1181,
+      "2025-05-22": 54,
+      "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -763,8 +764,7 @@
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
-      "2024-05-23": 1440,
-      "2024-05-22": 1440
+      "2024-05-23": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "74.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "74.95%",
     "uptimeYear": "96.28%",
     "time": 801,
-    "timeDay": 645,
-    "timeWeek": 646,
-    "timeMonth": 645,
+    "timeDay": 487,
+    "timeWeek": 641,
+    "timeMonth": 643,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-05-21": 10,
       "2025-05-20": 53,
       "2025-05-17": 21,
       "2025-05-16": 24,
@@ -864,7 +863,8 @@
       "2024-12-12": 45,
       "2024-12-10": 16,
       "2024-11-12": 25,
-      "2024-11-11": 22
+      "2024-11-11": 22,
+      "2024-11-09": 36
     }
   }
 ]
