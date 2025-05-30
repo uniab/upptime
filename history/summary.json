@@ -5,18 +5,19 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "43.94%",
+    "uptime": "43.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 584,
+    "time": 587,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-05-29": 1164,
+      "2025-05-30": 54,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -379,8 +380,7 @@
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
-      "2024-05-31": 1440,
-      "2024-05-30": 1440
+      "2024-05-31": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "31.77%",
+    "uptime": "31.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-05-29": 1164,
+      "2025-05-30": 54,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -763,8 +764,7 @@
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
-      "2024-05-31": 1440,
-      "2024-05-30": 1440
+      "2024-05-31": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "96.28%",
     "time": 797,
-    "timeDay": 637,
-    "timeWeek": 621,
+    "timeDay": 657,
+    "timeWeek": 632,
     "timeMonth": 637,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-05-29": 73,
+      "2025-05-29": 59,
       "2025-05-28": 32,
       "2025-05-26": 54,
       "2025-05-25": 18,
@@ -861,7 +861,8 @@
       "2025-01-03": 35,
       "2024-12-31": 22,
       "2024-12-29": 31,
-      "2024-12-25": 74
+      "2024-12-25": 74,
+      "2024-12-21": 29
     }
   }
 ]
