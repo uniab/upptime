@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "43.60%",
+    "uptime": "43.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-06-07": 886,
+      "2025-06-08": 60,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -379,8 +380,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "31.53%",
+    "uptime": "31.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-06-07": 886,
+      "2025-06-08": 60,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -763,8 +764,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "96.38%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "96.29%",
-    "time": 791,
-    "timeDay": 646,
-    "timeWeek": 621,
-    "timeMonth": 628,
+    "time": 790,
+    "timeDay": 605,
+    "timeWeek": 620,
+    "timeMonth": 625,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-06-07": 30,
+      "2025-06-07": 21,
       "2025-06-06": 24,
       "2025-06-05": 16,
       "2025-06-04": 91,
@@ -859,7 +859,8 @@
       "2025-01-28": 15,
       "2025-01-22": 50,
       "2025-01-20": 18,
-      "2025-01-19": 20
+      "2025-01-19": 20,
+      "2025-01-18": 19
     }
   }
 ]
