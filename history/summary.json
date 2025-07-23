@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "41.98%",
+    "uptime": "41.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-07-22": 58,
+      "2025-07-23": 59,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -379,8 +380,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "30.35%",
+    "uptime": "30.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-07-22": 59,
+      "2025-07-23": 59,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -763,8 +764,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -774,15 +774,15 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.41%",
-    "uptimeMonth": "97.33%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "99.41%",
     "time": 782,
-    "timeDay": 719,
-    "timeWeek": 647,
-    "timeMonth": 615,
-    "timeYear": 780,
+    "timeDay": 614,
+    "timeWeek": 636,
+    "timeMonth": 613,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2025-07-21": 16,
       "2025-07-20": 65,
