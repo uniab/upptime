@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-08-03": 324,
+      "2025-08-03": 533,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "30.05%",
+    "uptime": "30.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-08-03": 324,
+      "2025-08-03": 533,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -772,16 +772,16 @@
     "url": "https://test.uniab.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "91.30%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "91.29%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "99.42%",
     "time": 776,
     "timeDay": 675,
     "timeWeek": 645,
-    "timeMonth": 620,
+    "timeMonth": 622,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2025-08-03": 29,
@@ -834,8 +834,7 @@
       "2025-05-20": 53,
       "2025-05-17": 21,
       "2025-05-16": 24,
-      "2025-05-15": 48,
-      "2025-05-14": 31
+      "2025-05-15": 48
     }
   }
 ]
