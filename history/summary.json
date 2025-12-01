@@ -5,10 +5,10 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "37.81%",
+    "uptime": "37.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 678,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 952,
+      "2025-12-01": 65,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -379,8 +380,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "27.34%",
+    "uptime": "27.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 867,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-11-30": 952,
+      "2025-12-01": 65,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -763,8 +764,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "99.42%",
     "time": 744,
-    "timeDay": 625,
-    "timeWeek": 599,
-    "timeMonth": 787,
-    "timeYear": 738,
+    "timeDay": 629,
+    "timeWeek": 588,
+    "timeMonth": 785,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2025-11-30": 9,
       "2025-11-29": 20,
       "2025-11-28": 114,
       "2025-11-27": 16,
@@ -845,7 +844,8 @@
       "2025-08-23": 20,
       "2025-08-22": 97,
       "2025-08-21": 3,
-      "2025-08-20": 120
+      "2025-08-20": 120,
+      "2025-08-19": 20
     }
   }
 ]
