@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "37.55%",
+    "uptime": "37.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 1138,
+      "2025-12-10": 57,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -379,8 +380,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "27.15%",
+    "uptime": "27.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-12-09": 1139,
+      "2025-12-10": 57,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -763,8 +764,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "test-site",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "95.72%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "95.75%",
     "uptimeYear": "99.37%",
     "time": 738,
-    "timeDay": 671,
-    "timeWeek": 608,
-    "timeMonth": 668,
-    "timeYear": 733,
+    "timeDay": 628,
+    "timeWeek": 601,
+    "timeMonth": 667,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2025-12-09": 57,
+      "2025-12-09": 44,
       "2025-12-08": 29,
       "2025-12-05": 51,
       "2025-12-04": 410,
@@ -843,7 +843,7 @@
       "2025-09-05": 65,
       "2025-09-04": 30,
       "2025-09-02": 55,
-      "2025-08-30": 18
+      "2025-08-30": 36
     }
   }
 ]
