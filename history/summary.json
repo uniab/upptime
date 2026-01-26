@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "36.25%",
+    "uptime": "36.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 937,
+      "2026-01-26": 1176,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-01-26": 937,
+      "2026-01-26": 1176,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -772,15 +772,15 @@
     "url": "https://test.uniab.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "94.74%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "94.97%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "99.30%",
     "time": 716,
     "timeDay": 640,
-    "timeWeek": 629,
+    "timeWeek": 635,
     "timeMonth": 614,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -839,8 +839,7 @@
       "2025-11-19": 15,
       "2025-11-18": 35,
       "2025-11-16": 15,
-      "2025-11-14": 113,
-      "2025-11-13": 22
+      "2025-11-14": 113
     }
   }
 ]
