@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "34.63%",
+    "uptime": "34.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 88,
+      "2026-04-02": 78,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -379,8 +380,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "25.04%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-04-01": 88,
+      "2026-04-02": 78,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
@@ -763,8 +764,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
-      "2025-04-03": 1440,
-      "2025-04-02": 1440
+      "2025-04-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
     "status": "down",
-    "uptime": "97.74%",
+    "uptime": "97.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.69%",
-    "uptimeYear": "91.07%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "90.79%",
     "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 605,
-    "timeYear": 685,
+    "timeMonth": 0,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2026-04-01": 88,
+      "2026-04-02": 78,
+      "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
       "2026-03-29": 1440,
