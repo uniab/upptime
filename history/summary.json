@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "32.48%",
+    "uptime": "32.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 1273,
+      "2026-07-06": 81,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -379,8 +380,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 1273,
+      "2026-07-06": 81,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -763,8 +764,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   },
   {
@@ -772,19 +772,18 @@
     "url": "https://test.uniab.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "96.32%",
-    "uptimeDay": "95.31%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "84.45%",
+    "uptimeYear": "84.46%",
     "time": 689,
-    "timeDay": 655,
-    "timeWeek": 804,
-    "timeMonth": 630,
-    "timeYear": 683,
+    "timeDay": 638,
+    "timeWeek": 800,
+    "timeMonth": 629,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-12-31": 38,
       "2026-01-01": 24,
       "2026-01-02": 44,
       "2026-01-03": 63,
@@ -900,7 +899,8 @@
       "2026-06-05": 154,
       "2026-06-08": 62,
       "2026-07-04": 84,
-      "2026-07-05": 68
+      "2026-07-05": 68,
+      "2026-07-06": 0
     }
   }
 ]
