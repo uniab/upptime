@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 776,
+      "2026-08-15": 800,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 776,
+      "2026-08-15": 800,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -772,16 +772,16 @@
     "url": "https://test.uniab.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
-    "status": "down",
+    "status": "up",
     "uptime": "96.38%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "84.31%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "84.30%",
     "time": 684,
-    "timeDay": 490,
-    "timeWeek": 513,
-    "timeMonth": 733,
+    "timeDay": 481,
+    "timeWeek": 509,
+    "timeMonth": 726,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2026-01-13": 26,
@@ -900,7 +900,7 @@
       "2026-08-07": 19,
       "2026-08-09": 212,
       "2026-08-10": 52,
-      "2026-08-15": 51
+      "2026-08-15": 75
     }
   }
 ]
