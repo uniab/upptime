@@ -5,7 +5,7 @@
     "icon": "https://uniab.com/images/Lxf6e3NaG-gwW-zPZvAH9tpPOgSIAgR5g64CCjDhY1M/w:32/mb:500000/ar:1/aHR0cHM6Ly91bmlh/Yi5jb20vdXBsb2Fk/cy9hcnRpY2xlcy9i/Nm41NWpsd2diYWx6/YnBjdjgzbC5wbmc",
     "slug": "uniab-community",
     "status": "down",
-    "uptime": "30.38%",
+    "uptime": "30.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-20": 155,
+      "2026-10-21": 74,
+      "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -379,8 +380,7 @@
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
-      "2025-10-22": 1440,
-      "2025-10-21": 1440
+      "2025-10-22": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://team.uniab.com/favicon-32.png",
     "slug": "team-notes",
     "status": "down",
-    "uptime": "21.97%",
+    "uptime": "21.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-20": 155,
+      "2026-10-21": 74,
+      "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
@@ -763,8 +764,7 @@
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
-      "2025-10-22": 1440,
-      "2025-10-21": 1440
+      "2025-10-22": 1440
     }
   },
   {
@@ -772,19 +772,18 @@
     "url": "https://test.uniab.com",
     "icon": "https://icons.duckduckgo.com/ip3/test.uniab.com.ico",
     "slug": "test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "96.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "84.20%",
     "time": 753,
     "timeDay": 426,
-    "timeWeek": 543,
-    "timeMonth": 1203,
-    "timeYear": 731,
+    "timeWeek": 557,
+    "timeMonth": 1224,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2026-01-20": 18,
       "2026-01-21": 67,
       "2026-01-22": 17,
       "2026-01-23": 93,
@@ -903,7 +902,8 @@
       "2026-09-25": 183,
       "2026-10-01": 107,
       "2026-09-30": 55,
-      "2026-10-05": 42
+      "2026-10-05": 42,
+      "2026-10-21": 0
     }
   }
 ]
